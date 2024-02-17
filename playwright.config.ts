@@ -1,5 +1,5 @@
 import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
-  testMatch: ["tests/login.test.ts"]
+  testMatch: ["tests/dropdown.test.ts"]
 });
